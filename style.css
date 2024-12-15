@@ -1,0 +1,35 @@
+body{
+    
+    
+    background-image: url(https://www.fonstola.ru/pic/202206/800x600/www.fonstola.ru.1654736988.5181.jpg);
+     
+}
+.planet {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    color: darkturquoise;
+}
+img {
+    width: 565px;
+    height: 565px;
+
+}
+h1{
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #0099ff;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+}
+.button:hover {
+    background-color: #ff0000;
+  }
+ 
